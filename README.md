@@ -59,5 +59,5 @@
 
 
 ---
-### ✨ Curiosity is the engine of creativity! ✨
+### __✨ Curiosity is the engine of creativity! ✨__
 ---
