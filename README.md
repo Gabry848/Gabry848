@@ -57,9 +57,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Gabry848/Gabry848/assets/snake.svg" alt="Snake animation" />
-
-
 
 ---
 ### ✨ Curiosity is the engine of creativity! ✨
