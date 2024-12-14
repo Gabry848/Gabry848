@@ -19,6 +19,7 @@
  - 💡 To improve my development skills in Python.
  - 📚 To learn new techniques for algorithmic trading.
 
+https://github-readme-streak-stats.herokuapp.com/?user=Gabry848
 
 ### 📫 Contact
     ✉️ Email: 
