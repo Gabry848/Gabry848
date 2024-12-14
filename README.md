@@ -6,7 +6,7 @@
 - 🖥️ Interested in algorithmic trading and software development
 
 ## 💻 What I do
- -- 👨‍💻 Software development with a focus on Python and automation.  
+ - 👨‍💻 Software development with a focus on Python and automation.  
  <!--- 📊 Currently exploring algorithmic trading and advanced data analysis techniques.  -->
  - 🛠️ I’m also interested in improving my skills in **TypeScript** and mastering frameworks like **React** and **Flask**.
 
