@@ -18,7 +18,6 @@
 ## 📈 Current goals
  - 💡 To improve my development skills in Python.
  - 📚 To learn new techniques for algorithmic trading.
- - 
 
 ### 📫 Contact
     ✉️ Email: 
