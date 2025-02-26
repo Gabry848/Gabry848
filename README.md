@@ -3,7 +3,7 @@
 
  ## 🔍 About me
 - 🧑‍🎓 High school student passionate about technology, programming and science.
-- 🖥️
+- 🖥️ Interested in open source
 <!-- -  Interested in algorithmic trading and software development  -->
 
 ## 💻 What I do
