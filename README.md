@@ -3,7 +3,8 @@
 
  ## 🔍 About me
 - 🧑‍🎓 High school student passionate about technology, programming and science.
-- 🖥️ Interested in algorithmic trading and software development
+- 🖥️
+<!-- -  Interested in algorithmic trading and software development  -->
 
 ## 💻 What I do
  - 👨‍💻 Software development with a focus on Python and automation.  
@@ -12,12 +13,13 @@
 
 ## 🛠️ Technical skills
  - [x] Languages: **Python**, *HTML/CSS*, **JavaScript**
- - [x] Frameworks & Tools: Flask, React **Electron**
- - [x] Other: Git, GitHub Actions,**API**, REST
+ - [x] Frameworks & Tools: Flask, React **Electron**, **Expo**, **ReactNative**
+ - [x] Other: Git, **API**, REST
 
 ## 📈 Current goals
  - 💡 To improve my development skills in Python.
- - 📚 To learn new techniques for algorithmic trading.
+ - 📚 to create phone applications
+<!-- -  To learn new techniques for algorithmic trading.  -->
 
 ### 📫 Contact
     ✉️ Email: 
