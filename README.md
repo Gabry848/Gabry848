@@ -22,7 +22,7 @@
 <!-- -  To learn new techniques for algorithmic trading.  -->
 
 ### 📫 Contact
-    ✉️ Email: 
+    ✉️ Email: gabry848.famiglia@gmail.com
     🌐 Discord: Gabry848
 
 🌟 Follow me to see my progress and projects!
