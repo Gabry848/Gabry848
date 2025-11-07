@@ -18,20 +18,8 @@ I'm a **passionate entrepreneur** and **software developer** with an ambitious v
 
 - 🎯 **Mission:** Building the next unicorn startup
 - 💡 **Focus:** AI-powered applications and mobile development
-- 🌱 **Currently:** Developing **MyTaskly** - an AI voice-controlled task management app
+- 🌱 **Currently:** Developing **MyTaskly** [mytasklyapp.com](https://mytasklyapp.com), which will soon become open source
 - 🎓 **Education:** High school student (evening classes) with self-taught programming expertise
-- 🎹 **Passion:** Classical piano (Chopin & Rachmaninoff enthusiast)
-
----
-
-## 💼 Current Projects
-
-### 🎯 MyTaskly
-An innovative **AI-powered voice-controlled task manager** for mobile devices
-- 📱 Currently in Android beta with friends & family
-- 🤖 Exploring integration with OpenAI's ChatGPT Apps SDK
-- 🚀 Potential reach: 800M+ users
-- 🔗 Website: [mytasklyapp.com](https://mytasklyapp.com)
 
 ---
 
@@ -84,17 +72,6 @@ An innovative **AI-powered voice-controlled task manager** for mobile devices
 
 ---
 
-## 🎯 2025 Goals
-
-- [x] Launch MyTaskly on Google Play Store
-- [ ] Integrate OpenAI ChatGPT Apps SDK
-- [ ] Reach 10,000 active users
-- [ ] Expand to iOS platform
-- [ ] Build MCP server integrations
-- [ ] Continue growing as an entrepreneur
-
----
-
 ## 💭 Philosophy
 
 > **"Curiosity is the engine of creativity, ambition is the fuel."**
@@ -110,7 +87,6 @@ I'm always open to collaborating on innovative projects, discussing tech trends,
 - 🌐 **Portfolio:** [gabry848.github.io](https://gabry848.github.io)
 - ✉️ **Email:** gabry848.famiglia@gmail.com
 - 💬 **Discord:** Gabry848
-- 🐦 **X (Twitter):** Follow my entrepreneurial journey
 
 ---
 
