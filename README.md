@@ -16,7 +16,7 @@
 
 I'm a **passionate entrepreneur** and **software developer** with an ambitious vision: building innovative tech solutions that make a difference. Currently balancing evening school with my entrepreneurial journey, I dedicate my days to creating cutting-edge applications and exploring new technologies.
 
-- 🎯 **Mission:** Building the next unicorn startup
+- 🎯 **Mission:** Building innovative solutions that make a positive impact
 - 💡 **Focus:** AI-powered applications and mobile development
 - 🌱 **Currently:** Developing **MyTaskly** [mytasklyapp.com](https://mytasklyapp.com), which will soon become open source
 - 🎓 **Education:** High school student (evening classes) with self-taught programming expertise
