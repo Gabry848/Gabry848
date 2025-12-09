@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Gabriele
 
-### 16-year-old Entrepreneur & Full-Stack Developer from Italy
+### 16 year old boy Full-Stack Developer from Italy
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gabry848.github.io-blue?style=for-the-badge&logo=github)](https://gabry848.github.io)
 [![Email](https://img.shields.io/badge/Email-gabry848.famiglia%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:gabry848.famiglia@gmail.com)
