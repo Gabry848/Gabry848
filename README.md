@@ -18,7 +18,7 @@ I'm a **passionate entrepreneur** and **software developer** with an ambitious v
 
 - 🎯 **Mission:** Building innovative solutions that make a positive impact
 - 💡 **Focus:** AI-powered applications and mobile development
-- 🌱 **Currently:** Developing **MyTaskly** [mytasklyapp.com](https://mytasklyapp.com), which will soon become open source
+- 🌱 **Currently:** Developing **MyTaskly** [mytasklyapp.com](https://mytasklyapp.com), witch is now open source [MyTaskly Repo](https://github.com/Gabry848/MyTaskly-app)
 - 🎓 **Education:** High school student (evening classes) with self-taught programming expertise
 
 ---
