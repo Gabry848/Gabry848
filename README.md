@@ -60,15 +60,6 @@ I'm a **passionate entrepreneur** and **software developer** with an ambitious v
 - 🎨 Desktop Apps: **Electron**
 - 🔌 Protocols: **MCP (Model Context Protocol)**
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabry848&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Gabry848)
-
-</div>
 
 ---
 
