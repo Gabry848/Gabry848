@@ -71,16 +71,6 @@ I believe in **learning by building**, **failing fast**, and **thinking big**. E
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always open to collaborating on innovative projects, discussing tech trends, or sharing entrepreneurial experiences!
-
-- 🌐 **Portfolio:** [gabry848.github.io](https://gabry848.github.io)
-- ✉️ **Email:** gabry848.famiglia@gmail.com
-- 💬 **Discord:** Gabry848
-
----
-
 <div align="center">
 
 **⭐ Star my repositories if you find them interesting!**
