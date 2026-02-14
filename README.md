@@ -78,3 +78,5 @@ I believe in **learning by building**, **failing fast**, and **thinking big**. E
 *Building the future, one commit at a time* 🚀
 
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabry848&hide=contribs,prs)
