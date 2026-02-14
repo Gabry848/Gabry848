@@ -78,5 +78,3 @@ I believe in **learning by building**, **failing fast**, and **thinking big**. E
 *Building the future, one commit at a time* 🚀
 
 </div>
-
-![](https://github-trophies.vercel.app/?username=Gabry848)
