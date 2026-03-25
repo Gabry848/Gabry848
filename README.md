@@ -7,6 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-gabry848.github.io-blue?style=for-the-badge&logo=github)](https://gabry848.github.io)
 [![Email](https://img.shields.io/badge/Email-gabry848.famiglia%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:gabry848.famiglia@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-Gabry848-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Gabry848's Magine Stats](https://magine.cloud/api/github-card?user=Gabry848)](https://magine.cloud/api/github-card?user=Gabry848)
 </div>
 
 ---
@@ -77,4 +78,4 @@ I believe in **learning by building**, **failing fast**, and **thinking big**. E
 *Building the future, one commit at a time* 🚀
 
 </div>
-[![Gabry848's Magine Stats](https://magine.cloud/api/github-card?user=Gabry848)](https://magine.cloud/api/github-card?user=Gabry848)
+
