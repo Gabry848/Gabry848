@@ -8,8 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-gabry848.famiglia%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:gabry848.famiglia@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-Gabry848-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Gabry848's Magine Stats](https://magine.cloud/api/github-card?user=Gabry848)](https://magine.cloud/api/github-card?user=Gabry848)
-<a href="https://magine.cloud/api/github-card?user=Gabry848"><img src="https://magine.cloud/api/github-card?user=Gabry848" alt="Gabry848's GitHub Stats" width="600" /></a>
-https://magine.cloud/api/github-card?user=Gabry848
 </div>
 
 ---
