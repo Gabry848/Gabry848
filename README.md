@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **passionate entrepreneur** and **software developer** with an ambitious vision: building innovative tech solutions that make a difference. Currently balancing evening school with my entrepreneurial journey, I dedicate my days to creating cutting-edge applications and exploring new technologies.
+I'm a **passionate software developer** with an **ambitious vision**: building innovative tech solutions that make a difference. Currently balancing evening school with my personal projects, I dedicate my days to creating cutting-edge applications and exploring new technologies.
 
 - 🎯 **Mission:** Building innovative solutions that make a positive impact
 - 💡 **Focus:** AI-powered applications and mobile development
