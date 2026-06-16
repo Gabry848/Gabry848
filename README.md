@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Gabriele
+# Gabriele Cipriani
 
-### 17 year old Full-Stack Developer from Italy
+### Building AI infrastructure and developer tools
+
+17-year-old Full-Stack Developer from Italy
 
 [Portfolio](https://gabry848.github.io) • [Email](mailto:gabry848.famiglia@gmail.com)
 
