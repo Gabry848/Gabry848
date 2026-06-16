@@ -10,10 +10,6 @@
 
 ---
 
-Building developer tools, AI infrastructure and open-source software.
-
-Currently building **Fentaris**.
-
 <p align="center">
   <img src="https://readme-stars.vercel.app/api?username=Gabry848&hide=contribs,issues&show_icons=true" />
 </p>
